@@ -505,13 +505,13 @@
   }
   {
     "id": 7,
-    "name": "Massimo Bottura",
-    "location": "Modena, Italy",
-    "picture_chef": "https://i.ibb.co/SVp9gzp/rc-cf-FMh5o5m5-N9-E-unsplash.jpg",
+    "name": "Alice Waters",
+    "location": "Berkeley, USA",
+    "picture_chef": "https://i.ibb.co/ZMKnmgD/rc-cf-FMh5o5m5-N9-E-unsplash.jpg",
     "years_of_experience": 9,
     "num_recipes": 150,
-    "likes": "1.5M",
-    "description": "Massimo Bottura is an Italian chef and restaurateur who is the owner and head chef of Osteria Francescana, a three-Michelin-starred restaurant in Modena, Italy. He is known for his innovative approach to traditional Italian cuisine and has been named the World's Best Restaurant multiple times.",
+    "likes": "3.5M",
+    "description": "Alice Waters - an American chef, author, and founder of Chez Panisse, a restaurant in Berkeley, California known for its focus on fresh, local, and organic ingredients. She is a pioneer of the farm-to-table movement and an advocate for sustainable food systems. Location: California, USA.",
     "recipes": [
       {
         "id": 1,
