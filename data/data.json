@@ -1,0 +1,506 @@
+[
+  {
+    "id": 1,
+    "name": "Massimo Bottura",
+    "location": "Modena, Italy",
+    "picture_chef": "https://i.ibb.co/SVp9gzp/rc-cf-FMh5o5m5-N9-E-unsplash.jpg",
+    "years_of_experience": 9,
+    "num_recipes": 150,
+    "likes": "1.5M",
+    "description": "Massimo Bottura is an Italian chef and restaurateur who is the owner and head chef of Osteria Francescana, a three-Michelin-starred restaurant in Modena, Italy. He is known for his innovative approach to traditional Italian cuisine and has been named the World's Best Restaurant multiple times.",
+    "recipes": [
+      {
+        "id": 1,
+        "name": "Emilia burger",
+        "picture": "https://i.ibb.co/SygKrm1/pexels-katerina-holmes-5908205.jpg",
+        "ingredients": [
+          "ground beef",
+          "Parmigiano-Reggiano cheese",
+          "balsamic vinegar",
+          "burger buns"
+        ],
+        "method": [
+          "Shape the beef into patties and season with salt and pepper.",
+          "Grill or pan-fry the patties until cooked to your desired level of doneness.",
+          "Top each patty with grated Parmigiano-Reggiano cheese and a drizzle of balsamic vinegar reduction.",
+          "Serve on burger buns with your choice of toppings."
+        ],
+        "rating": 3.5
+      },
+      {
+        "id": 2,
+        "name": "Spaghetti cacio e pepe",
+        "picture": "https://i.ibb.co/gTB1XdV/pexels-lisa-fotios-1279330.jpg",
+        "ingredients": [
+          "Spaghetti",
+          "Pecorino Romano cheese",
+          "black pepper",
+          "salt"
+        ],
+        "method": [
+          "Cook the spaghetti in boiling salted water until al dente.",
+          "Reserve a cup of pasta water, then drain the spaghetti.",
+          "In a large bowl, mix the grated Pecorino Romano cheese and black pepper.",
+          "Add the cooked spaghetti and reserved pasta water to the bowl and toss until well-coated with the cheese mixture"
+        ],
+        "rating": 3
+      },
+      {
+        "id": 3,
+        "name": "Tagliatelle al ragù",
+        "picture": "https://i.ibb.co/sjwmWMr/pexels-shameel-mukkath-14930760.jpg",
+        "ingredients": [
+          "Tagliatelle pasta",
+          "ground beef",
+          "canned tomatoes",
+          "onion"
+        ],
+        "method": [
+          "Finely chop the onion and sauté in a large pot until translucent.",
+          "Add the ground beef and cook until browned.",
+          "Add the canned tomatoes and simmer for 30-40 minutes.",
+          "Cook the tagliatelle pasta in boiling salted water until al dente, then toss with the ragù sauce."
+        ],
+        "rating": 4.5
+      },
+      {
+        "id": 4,
+        "name": "Tiramisu",
+        "picture": "https://i.ibb.co/RDcn39F/pexels-ofir-eliav-7783244.jpg",
+        "ingredients": [
+          "Mascarpone cheese",
+          "ladyfingers",
+          "espresso coffee",
+          "cocoa powder"
+        ],
+        "method": [
+          "Brew strong espresso coffee and let cool.",
+          "In a large bowl, mix the Mascarpone cheese and a splash of heavy cream until smooth.",
+          "Dip the ladyfingers in the cooled espresso coffee, then layer them in a serving dish.",
+          "Spread the Mascarpone mixture over the ladyfingers, then sprinkle with cocoa powder. Chill in the fridge for at least 2 hours before serving."
+        ],
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Dominique Crenn ",
+    "location": "San Francisco, USA",
+    "picture_chef": "https://i.ibb.co/892CM7n/rc-cf-FMh5o5m5-N9-E-unsplash.jpg",
+    "years_of_experience": 7,
+    "num_recipes": 100,
+    "likes": "2.5M",
+    "description": "Dominique Crenn is a French-American chef who is the first female chef in the United States to receive three Michelin stars for her restaurant Atelier Crenn in San Francisco. She is known for her artistic and poetic approach to cooking, and her commitment to sustainability and social justice.",
+    "recipes": [
+      {
+        "id": 1,
+        "name": " Beef Wellington",
+        "picture": "https://i.ibb.co/dKRjmyd/pexels-malidate-van-769289.jpg",
+        "ingredients": [
+          "Beef tenderloin",
+          " puff pastry",
+          "mushrooms",
+          "prosciutto"
+        ],
+        "method": [
+          "Sear the beef tenderloin on all sides in a hot pan, then let cool.",
+          "Sauté finely chopped mushrooms with minced garlic and thyme.",
+          "Spread a layer of prosciutto over the puff pastry, then spread the mushroom mixture over the prosciutto.",
+          "Place the seared beef tenderloin on top of the mushroom mixture, then wrap the puff pastry around the beef. Brush with egg wash and bake in the oven at 400°F (200°C) for 35-40 minutes."
+        ],
+        "rating": 1.5
+      },
+      {
+        "id": 2,
+        "name": "Spaghetti aglio e olio",
+        "picture": "https://i.ibb.co/zXQPwpK/pexels-jane-doan-769969.jpg",
+        "ingredients": [
+          "spaghetti",
+          " garlic",
+          "extra-virgin olive oil",
+          "red pepper flakes"
+        ],
+        "method": [
+          "Cook spaghetti in a pot of salted boiling water until al dente.",
+          "While the spaghetti is cooking, heat olive oil and minced garlic in a skillet over low heat.",
+          "Add red pepper flakes to the skillet and sauté for 1-2 minutes.",
+          "Drain the spaghetti and toss with the garlic oil mixture. Serve with grated Parmesan cheese."
+        ],
+        "rating": 2.5
+      },
+      {
+        "id": 3,
+        "name": "Roasted beets with feta cheese",
+        "picture": "https://i.ibb.co/PG81Gns/pexels-karolina-grabowska-6660251.jpg",
+        "ingredients": [
+          " beets,",
+          "feta cheese",
+          "olive oil",
+          "fresh thyme"
+        ],
+        "method": [
+          "Preheat the oven to 400°F (200°C).",
+          "Wash and trim the beets, then cut into bite-sized pieces.",
+          "Toss the beets with olive oil and fresh thyme, then spread them out on a baking sheet.",
+          "Roast in the oven for 20-25 minutes, or until tender. Sprinkle crumbled feta cheese over the top and serve."
+        ],
+        "rating": 4
+      },
+      {
+        "id": 4,
+        "name": "Pan-seared salmon with lemon butter sauce",
+        "picture": "https://i.ibb.co/xj2DdSz/pexels-lachlan-ross-6510283.jpg",
+        "ingredients": [
+          "salmon fillet",
+          "butter",
+          "lemon  juice",
+          "salt"
+        ],
+        "method": [
+          "Season the salmon fillet with salt.",
+          "Melt butter in a skillet over medium heat.",
+          "Add the salmon fillet to the skillet and cook for 3-4 minutes per side, until cooked through.",
+          "Squeeze fresh lemon juice over the salmon and serve."
+        ],
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Rene Redzepi",
+    "location": "Copenhagen, Denmark",
+    "picture_chef": "https://i.ibb.co/JQvztbR/rc-cf-FMh5o5m5-N9-E-unsplash.jpg",
+    "years_of_experience": 5,
+    "num_recipes": 75,
+    "likes": "50.1k",
+    "description": "Rene Redzepi is a Danish chef who is the co-owner and head chef of Noma, a two-Michelin-starred restaurant in Copenhagen that has been named the World's Best Restaurant multiple times. He is known for his pioneering use of foraged and locally sourced ingredients, and his focus on seasonality and fermentation.",
+    "recipes": [
+      {
+        "id": 1,
+        "name": "Grilled peaches with vanilla ice cream",
+        "picture": "https://i.ibb.co/pfMB4SS/pexels-julias-torten-und-t-rtchen-1120464.jpg",
+        "ingredients": [
+          "peaches",
+          "vanilla ice cream",
+          "brown sugar",
+          "cinnamon"
+        ],
+        "method": [
+          "Cut the peaches in half and remove the pit.",
+          "Brush the cut side of the peaches with melted butter and sprinkle with brown sugar and cinnamon.",
+          "Grill the peaches, cut side down, for 2-3 minutes, until lightly charred.",
+          "Serve the grilled peaches with a scoop of vanilla ice cream."
+        ],
+        "rating": 4.5
+      },
+      {
+        "id": 2,
+        "name": "Chicken tikka masala",
+        "picture": "https://i.ibb.co/YRt9NP4/pexels-lisa-fotios-1279330.jpg",
+        "ingredients": [
+          "chicken breast",
+          "onion",
+          "tomato puree",
+          "garam masala"
+        ],
+        "method": [
+          "Cut the chicken breast into bite-sized pieces and marinate in yogurt and garam masala for at least 1 hour.",
+          "Heat oil in a skillet over medium-high heat.",
+          "Add diced onion and sauté until translucent.",
+          "Add the marinated chicken and tomato puree to the skillet and simmer for 20-25 minutes, until the chicken is cooked through. Serve with rice."
+        ],
+        "rating": 3.5
+      },
+      {
+        "id": 3,
+        "name": "Saag paneer",
+        "picture": "https://i.ibb.co/phqczBD/pexels-abhishek-mahajan-3928854.jpg",
+        "ingredients": [
+          "paneer cheese",
+          "spinach",
+          "heavy cream",
+          " ghee"
+        ],
+        "method": [
+          "Cut paneer cheese into bite-sized pieces and set aside.",
+          "Heat ghee in a skillet over medium-high heat.",
+          "Add chopped spinach and cook until wilted.",
+          "Add heavy cream and paneer cheese to the skillet and simmer until the cheese is heated through. Serve with naan bread."
+        ],
+        "rating": 3
+      },
+      {
+        "id": 4,
+        "name": "Caprese salad",
+        "picture": "https://i.ibb.co/x6DtcTk/pexels-cats-coming-406152.jpg",
+        "ingredients": [
+          "fresh tomatoes",
+          "fresh mozzarella",
+          "fresh basil",
+          "balsamic vinegar"
+        ],
+        "method": [
+          "Slice the tomatoes and mozzarella into 1/4-inch thick slices",
+          "Arrange the tomato and mozzarella slices on a plate, alternating them",
+          "Top with fresh basil leaves.",
+          "Drizzle with balsamic vinegar and serve."
+        ],
+        "rating": 4.5
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Joan Roca ",
+    "location": "Girona, Spain",
+    "picture_chef": "https://i.ibb.co/mRvCDCh/rc-cf-FMh5o5m5-N9-E-unsplash.jpg",
+    "years_of_experience": 10,
+    "num_recipes": 200,
+    "likes": "70.3k",
+    "description": "Joan Roca is a Spanish chef who is the co-owner and head chef of El Celler de Can Roca, a three-Michelin-starred restaurant in Girona, Spain. The restaurant has been named the World's Best Restaurant multiple times, and Roca is known for his creative and innovative approach to traditional Catalan cuisine.",
+    "recipes": [
+      {
+        "id": 1,
+        "name": "Avocado toast",
+        "picture": "https://i.ibb.co/G7m4yLb/pexels-lisa-fotios-1351238.jpg",
+        "ingredients": [
+          "bread",
+          "avocado",
+          "salt",
+          "lemon juice"
+        ],
+        "method": [
+          "Toast the bread.",
+          "Mash the avocado in a bowl with salt and lemon juice.",
+          "Spread the mashed avocado on the toast.",
+          "Serve immediately."
+        ],
+        "rating": 4
+      },
+      {
+        "id": 2,
+        "name": "Tomato bruschetta",
+        "picture": "https://i.ibb.co/1GFn5vW/pexels-mateusz-feliksik-11789787.jpg",
+        "ingredients": [
+          "bread",
+          "tomatoes",
+          "garlic",
+          "olive oil"
+        ],
+        "method": [
+          "Toast the bread.",
+          "Dice the tomatoes and mix them in a bowl with minced garlic and olive oil.",
+          "Spoon the tomato mixture onto the bread.",
+          "Serve immediately."
+        ],
+        "rating": 4.5
+      },
+      {
+        "id": 3,
+        "name": "Roasted sweet potato wedges",
+        "picture": "https://i.ibb.co/1GFn5vW/pexels-mateusz-feliksik-11789787.jpg",
+        "ingredients": [
+          "sweet potatoes",
+          " olive oil",
+          "salt",
+          " black pepper"
+        ],
+        "method": [
+          "Preheat the oven to 400°F (200°C).",
+          "Cut the sweet potatoes into wedges and toss them with olive oil, salt, and black pepper.",
+          "Arrange the sweet potato wedges on a baking sheet.",
+          "Roast in the oven for 20-25 minutes or until tender and crispy."
+        ],
+        "rating": 5
+      },
+      {
+        "id": 4,
+        "name": "Caprese salad",
+        "picture": "https://i.ibb.co/QPLqpf0/pexels-sydney-troxell-718742.jpg",
+        "ingredients": [
+          " tomatoes",
+          "fresh mozzarella",
+          "basil leaves",
+          "balsamic glaze"
+        ],
+        "method": [
+          "Slice the tomatoes and fresh mozzarella into rounds.",
+          "Arrange the tomato and mozzarella slices on a plate, alternating them.",
+          "Top with fresh basil leaves.",
+          "Drizzle balsamic glaze over the top."
+        ],
+        "rating": 4.5
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Gaggan Anand",
+    "location": "Bangkok, Thailand",
+    "picture_chef": "https://i.ibb.co/PjR9S1r/rc-cf-FMh5o5m5-N9-E-unsplash.jpg",
+    "years_of_experience": 9,
+    "num_recipes": 50,
+    "likes": "3.M",
+    "description": " Gaggan Anand is an Indian chef who is the owner and head chef of Gaggan, a progressive Indian restaurant in Bangkok that has consistently ranked among the world's best. He is known for his imaginative and playful approach to Indian cuisine, and his use of molecular gastronomy techniques.",
+    "recipes": [
+      {
+        "id": 1,
+        "name": "Honey Mustard Glazed Pork Chops",
+        "picture": "https://i.ibb.co/LN6DkhQ/pexels-julia-filirovska-7140437.jpg",
+        "ingredients": [
+          " pork chops",
+          "honey",
+          "mustard",
+          "olive oil"
+        ],
+        "method": [
+          "Preheat oven to 375°F.",
+          "Mix honey and mustard in a bowl.",
+          "Rub olive oil on pork chops and place them on a baking sheet.",
+          "Brush the honey mustard mixture onto the pork chops and bake in the oven for 20-25 minutes."
+        ],
+        "rating": 2.5
+      },
+      {
+        "id": 2,
+        "name": "Creamy Avocado Pasta",
+        "picture": "https://i.ibb.co/85C17yF/pexels-magda-ehlers-4198400.jpg",
+        "ingredients": [
+          "pasta",
+          "avocado",
+          "garlic",
+          "olive oil"
+        ],
+        "method": [
+          "Cook pasta according to package instructions and drain.",
+          "In a blender, puree avocado and garlic.",
+          "Add olive oil and blend until smooth.",
+          "Toss the pasta with the avocado sauce and serve."
+        ],
+        "rating": 3
+      },
+      {
+        "id": 3,
+        "name": "Sweet and Sour Chicken Stir-Fry",
+        "picture": "https://i.ibb.co/fqXFzfr/pexels-tim-samuel-6697273.jpg",
+        "ingredients": [
+          " chicken breasts",
+          " bell peppers",
+          "pineapple",
+          " sweet and sour sauce"
+        ],
+        "method": [
+          "Cut chicken breasts into small pieces and season with salt and pepper.",
+          "Heat oil in a pan over medium-high heat.",
+          "Add bell peppers and pineapple and stir-fry for 2-3 minutes.",
+          "Add chicken and sweet and sour sauce to the pan and continue stir-frying until chicken is cooked through."
+        ],
+        "rating": 4
+      },
+      {
+        "id": 4,
+        "name": "Roasted Vegetable Salad",
+        "picture": "https://i.ibb.co/y4ZZf8Y/pexels-biel-heinrich-9760204.jpg",
+        "ingredients": [
+          "mixed vegetables (such as carrots",
+          "broccoli",
+          "cauliflower",
+          "olive oil"
+        ],
+        "method": [
+          "Preheat oven to 425°F.",
+          "Cut vegetables into bite-sized pieces and toss with olive oil.",
+          "Spread the vegetables on a baking sheet and roast in the oven for 20-25 minutes.",
+          "Drizzle balsamic vinegar over the roasted vegetables and sprinkle feta cheese over the top before serving."
+        ],
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Ana Ros",
+    "location": "Slovenia",
+    "picture_chef": "https://i.ibb.co/bLyXgwj/rc-cf-FMh5o5m5-N9-E-unsplash.jpg",
+    "years_of_experience": 13,
+    "num_recipes": 125,
+    "likes": "4.5M",
+    "description": " Ana Ros is a Slovenian chef who is the owner and head chef of Hiša Franko, a restaurant in Kobarid, Slovenia that has gained international acclaim for its innovative cuisine and use of local ingredients. She is known for her creative and experimental approach to traditional Slovenian cuisine, and her commitment to sustainability and supporting local farmers and producers.",
+    "recipes": [
+      {
+        "id": 1,
+        "name": "Grilled peach and burrata salad",
+        "picture": "https://i.ibb.co/q0gHBRy/pexels-valeria-boltneva-1247677.jpg",
+        "ingredients": [
+          "peaches",
+          " burrata cheese",
+          "arugula",
+          "balsamic glaze"
+        ],
+        "method": [
+          "Preheat a grill or grill pan to high heat.",
+          "Cut peaches into wedges and grill until charred and softened.",
+          "Arrange arugula on a plate and top with grilled peaches and torn burrata cheese.",
+          "Drizzle with balsamic glaze and season with salt and pepper."
+        ],
+        "rating": 2.5
+      },
+      {
+        "id": 2,
+        "name": "Honey mustard roasted carrots",
+        "picture": "https://i.ibb.co/x6LT9tx/pexels-tim-douglas-6210947.jpg",
+        "ingredients": [
+          "carrots",
+          "honey",
+          " Dijon mustard",
+          "olive oil"
+        ],
+        "method": [
+          "Preheat oven to 400°F (200°C).",
+          "Cut carrots into sticks and toss with honey, Dijon mustard, and olive oil.",
+          "Spread carrots in a single layer on a baking sheet..",
+          "Roast in the oven for 20-25 minutes, until carrots are tender and caramelized."
+        ],
+        "rating": 4
+      },
+      {
+        "id": 3,
+        "name": "Tuna avocado lettuce wraps",
+        "picture": "https://i.ibb.co/BZCG8qB/pexels-tim-douglas-6210947.jpg",
+        "ingredients": [
+          "canned tuna",
+          "avocado",
+          "lettuce leaves",
+          "lime juice"
+        ],
+        "method": [
+          "Drain canned tuna and flake with a fork.",
+          "Mash avocado in a bowl and mix with tuna.",
+          "Spoon tuna mixture onto lettuce leaves.",
+          "Squeeze lime juice over the top and wrap lettuce leaves around the filling."
+        ],
+        "rating": 5
+      },
+      {
+        "id": 4,
+        "name": " Blueberry almond crumble bars",
+        "picture": "https://i.ibb.co/RQKLdT0/pexels-jane-doan-1099680.jpg",
+        "ingredients": [
+          "blueberries",
+          "almonds",
+          "oats",
+          "honey"
+        ],
+        "method": [
+          "Preheat oven to 350°F (175°C).",
+          "Pulse almonds and oats in a food processor until coarsely ground.",
+          "Mix almond-oat mixture with honey to make a crumbly dough.",
+          "Press half of the dough into a baking dish, top with blueberries, and sprinkle the remaining dough over the top. Bake for 20-25 minutes, until golden brown."
+        ],
+        "rating": 3.5
+      }
+    ]
+  }
+]
