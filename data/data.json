@@ -502,7 +502,7 @@
         "rating": 3.5
       }
     ]
-  }
+  },
   {
     "id": 7,
     "name": "Alice Waters",
@@ -756,14 +756,14 @@
     ]
   },
   {
-    "id": 4,
-    "name": "Joan Roca ",
-    "location": "Girona, Spain",
+    "id": 10,
+    "name": "Ivan Orkin",
+    "location": "New York, USA",
     "picture_chef": "https://i.ibb.co/mRvCDCh/rc-cf-FMh5o5m5-N9-E-unsplash.jpg",
-    "years_of_experience": 10,
+    "years_of_experience": 13,
     "num_recipes": 200,
-    "likes": "4.M",
-    "description": "Joan Roca is a Spanish chef who is the co-owner and head chef of El Celler de Can Roca, a three-Michelin-starred restaurant in Girona, Spain. The restaurant has been named the World's Best Restaurant multiple times, and Roca is known for his creative and innovative approach to traditional Catalan cuisine.",
+    "likes": "5M",
+    "description": "Ivan Orkin - an American chef who is known as the Ramen King for his expertise in making ramen. He is the owner of Ivan Ramen in New York and Tokyo, and has written a cookbook about his craft.",
     "recipes": [
       {
         "id": 1,
@@ -840,14 +840,14 @@
     ]
   },
   {
-    "id": 5,
-    "name": "Gaggan Anand",
-    "location": "Bangkok, Thailand",
-    "picture_chef": "https://i.ibb.co/PjR9S1r/rc-cf-FMh5o5m5-N9-E-unsplash.jpg",
+    "id": 11,
+    "name": "Christina Tosi",
+    "location": "New York, USA.",
+    "picture_chef": "https://i.ibb.co/7nnSDhB/rc-cf-FMh5o5m5-N9-E-unsplash.jpg",
     "years_of_experience": 9,
     "num_recipes": 50,
     "likes": "3.M",
-    "description": " Gaggan Anand is an Indian chef who is the owner and head chef of Gaggan, a progressive Indian restaurant in Bangkok that has consistently ranked among the world's best. He is known for his imaginative and playful approach to Indian cuisine, and his use of molecular gastronomy techniques.",
+    "description": "Christina Tosi - an American chef, author, and founder of Milk Bar, a bakery known for its innovative and playful desserts. She has been a judge on several cooking shows, including MasterChef and MasterChef Junior.",
     "recipes": [
       {
         "id": 1,
@@ -924,14 +924,14 @@
     ]
   },
   {
-    "id": 6,
-    "name": "Ana Ros",
-    "location": "Slovenia",
-    "picture_chef": "https://i.ibb.co/bLyXgwj/rc-cf-FMh5o5m5-N9-E-unsplash.jpg",
+    "id": 12,
+    "name": "Virgilio Martinez",
+    "location": " Lima, Peru",
+    "picture_chef": "https://i.ibb.co/HN6Mn0s/rc-cf-FMh5o5m5-N9-E-unsplash.jpg",
     "years_of_experience": 13,
     "num_recipes": 125,
-    "likes": "4.5M",
-    "description": " Ana Ros is a Slovenian chef who is the owner and head chef of Hiša Franko, a restaurant in Kobarid, Slovenia that has gained international acclaim for its innovative cuisine and use of local ingredients. She is known for her creative and experimental approach to traditional Slovenian cuisine, and her commitment to sustainability and supporting local farmers and producers.",
+    "likes": "3.5M",
+    "description": "Virgilio Martinez - a Peruvian chef and owner of Central, a restaurant in Lima that is known for its use of indigenous Peruvian ingredients and flavors. He is also the founder of Mater Iniciativa, a research organization that studies biodiversity in the Amazon. ",
     "recipes": [
       {
         "id": 1,
