@@ -506,12 +506,12 @@
   {
     "id": 7,
     "name": "Alice Waters",
-    "location": "Berkeley, USA",
+    "location": "California, USA.",
     "picture_chef": "https://i.ibb.co/ZMKnmgD/rc-cf-FMh5o5m5-N9-E-unsplash.jpg",
     "years_of_experience": 9,
     "num_recipes": 150,
     "likes": "3.5M",
-    "description": "Alice Waters - an American chef, author, and founder of Chez Panisse, a restaurant in Berkeley, California known for its focus on fresh, local, and organic ingredients. She is a pioneer of the farm-to-table movement and an advocate for sustainable food systems. Location: California, USA.",
+    "description": "Alice Waters - an American chef, author, and founder of Chez Panisse, a restaurant in Berkeley, California known for its focus on fresh, local, and organic ingredients. She is a pioneer of the farm-to-table movement and an advocate for sustainable food systems.",
     "recipes": [
       {
         "id": 1,
@@ -588,14 +588,14 @@
     ]
   },
   {
-    "id": 2,
-    "name": "Dominique Crenn ",
-    "location": "San Francisco, USA",
-    "picture_chef": "https://i.ibb.co/892CM7n/rc-cf-FMh5o5m5-N9-E-unsplash.jpg",
+    "id": 8,
+    "name": "Yotam Ottolenghi",
+    "location": "London, UK.",
+    "picture_chef": "https://i.ibb.co/n1md8k8/rc-cf-FMh5o5m5-N9-E-unsplash.jpg",
     "years_of_experience": 7,
     "num_recipes": 100,
-    "likes": "2.5M",
-    "description": "Dominique Crenn is a French-American chef who is the first female chef in the United States to receive three Michelin stars for her restaurant Atelier Crenn in San Francisco. She is known for her artistic and poetic approach to cooking, and her commitment to sustainability and social justice.",
+    "likes": "900.1k",
+    "description": "Yotam Ottolenghi - an Israeli-British chef, restaurateur, and author known for his innovative vegetarian dishes and Mediterranean-inspired cuisine. He is the owner of several restaurants and delis in London and has written several best-selling cookbooks.",
     "recipes": [
       {
         "id": 1,
@@ -672,14 +672,14 @@
     ]
   },
   {
-    "id": 3,
-    "name": "Rene Redzepi",
-    "location": "Copenhagen, Denmark",
-    "picture_chef": "https://i.ibb.co/JQvztbR/rc-cf-FMh5o5m5-N9-E-unsplash.jpg",
+    "id": 9,
+    "name": "Pía León",
+    "location": " Lima, Peru",
+    "picture_chef": "https://i.ibb.co/QfsndDG/rc-cf-FMh5o5m5-N9-E-unsplash.jpg",
     "years_of_experience": 5,
     "num_recipes": 75,
-    "likes": "50.1k",
-    "description": "Rene Redzepi is a Danish chef who is the co-owner and head chef of Noma, a two-Michelin-starred restaurant in Copenhagen that has been named the World's Best Restaurant multiple times. He is known for his pioneering use of foraged and locally sourced ingredients, and his focus on seasonality and fermentation.",
+    "likes": "4.5M",
+    "description": "Pía León - a Peruvian chef and co-owner of Kjolle, a restaurant in Lima that showcases the diversity of Peruvian ingredients and traditions. She is the first woman in Latin America to be named the world's best female chef.",
     "recipes": [
       {
         "id": 1,
