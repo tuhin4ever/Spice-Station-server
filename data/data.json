@@ -171,7 +171,7 @@
     "id": 3,
     "name": "Rene Redzepi",
     "location": "Copenhagen, Denmark",
-    "picture_chef": "https://i.ibb.co/YpvGDSt/pexels-abhishek-mahajan-3928854.jpg",
+    "picture_chef": "https://i.ibb.co/JQvztbR/rc-cf-FMh5o5m5-N9-E-unsplash.jpg",
     "years_of_experience": 5,
     "num_recipes": 75,
     "likes": "50.1k",
@@ -234,7 +234,7 @@
       {
         "id": 4,
         "name": "Caprese salad",
-        "picture": "https://i.ibb.co/x6DtcTk/pexels-cats-coming-406152.jpg",
+        "picture": "https://i.ibb.co/YpvGDSt/pexels-abhishek-mahajan-3928854.jpg",
         "ingredients": [
           "fresh tomatoes",
           "fresh mozzarella",
@@ -675,7 +675,7 @@
     "id": 9,
     "name": "Pía León",
     "location": " Lima, Peru",
-    "picture_chef": "https://i.ibb.co/YpvGDSt/pexels-abhishek-mahajan-3928854.jpg",
+    "picture_chef": "https://i.ibb.co/QfsndDG/rc-cf-FMh5o5m5-N9-E-unsplash.jpg",
     "years_of_experience": 5,
     "num_recipes": 75,
     "likes": "4.5M",
@@ -738,7 +738,7 @@
       {
         "id": 4,
         "name": "Caprese salad",
-        "picture": "https://i.ibb.co/x6DtcTk/pexels-cats-coming-406152.jpg",
+        "picture": "https://i.ibb.co/YpvGDSt/pexels-abhishek-mahajan-3928854.jpg",
         "ingredients": [
           "fresh tomatoes",
           "fresh mozzarella",
